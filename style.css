@@ -1,0 +1,96 @@
+body {
+    font-family: sans-serif;
+    background-color: rgba(24, 97, 12, 0.63);
+}
+
+header p{
+    color: #000;
+text-align: center;
+font-family: cursive;
+font-size: 24px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;   
+}
+
+nav{
+    display: flex;
+    justify-content: center;
+}
+
+header{
+    background-color: rgba(16, 116, 0, 0.88);
+}
+
+.m1{
+    border: 1px solid rgb(211, 198, 198);;
+    margin: 5px;
+    text-decoration: none;
+    border-radius: 15px;
+    padding: 1%;
+    background-color:black;
+    color: rgb(211, 198, 198);
+
+}
+
+nav a{ 
+   border: 1px solid black;
+    margin: 5px;
+    text-decoration: none;
+    border-radius: 15px;
+    padding: 1%;
+    background-color:rgb(211, 198, 198);
+    color: black; 
+}
+
+header img {
+    width: 12px;
+height: 15px;
+}
+
+main p {
+    color: #000;
+    text-align: center;
+font-family: cursive;
+background-color: #124400;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+}
+
+footer p{
+    color: #000;
+font-family: cursive;
+border: #124400;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+}
+
+.tree{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+
+}
+
+.aurea{
+    justify-content: center;
+    margin: 30px;
+    display: block;
+}
+
+.smaragd{
+    justify-content: center;
+    margin: 30px;
+    display: block;
+}
+
+footer {
+    background: #1B4D09;
+    color: aliceblue;
+}
+
+footer a{
+    text-decoration: none;
+}
